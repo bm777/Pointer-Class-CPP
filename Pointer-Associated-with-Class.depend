@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1590639321 source:/home/bm7/github/Pointer-Associated-with-Class/Arme.cpp
+	"Arme.h"
+
+1590639200 /home/bm7/github/Pointer-Associated-with-Class/Arme.h
+	<string>
+	<iostream>
+
+1590637556 source:/home/bm7/github/Pointer-Associated-with-Class/main.cpp
+	<iostream>
+	"Personnage.h"
+
+1590640042 /home/bm7/github/Pointer-Associated-with-Class/Personnage.h
+	"Arme.h"
+	<iostream>
+	<string>
+
+1590640298 source:/home/bm7/github/Pointer-Associated-with-Class/Personnage.cpp
+	"Personnage.h"
+	<string>
+
+1590636777 source:/home/bm7/github/Pointer-Associated-with-Class/Duree.cpp
+	"Duree.h"
+
+1590636743 /home/bm7/github/Pointer-Associated-with-Class/Duree.h
+
